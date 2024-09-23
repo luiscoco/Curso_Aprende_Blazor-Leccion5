@@ -1,6 +1,6 @@
 # CURSO: APRENDE BLAZOR
 
-# LECCIÓN 4: Flujo de la aplicación
+# LECCIÓN 5: Explicación del Flujo de la aplicación Blazor
 
 ![image](https://github.com/user-attachments/assets/c860d1be-c6d7-48a8-8db1-3ab67dbeb09d)
 
